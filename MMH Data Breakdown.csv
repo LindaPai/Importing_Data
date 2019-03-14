@@ -1,0 +1,133 @@
+MMH Data Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Initials,CRF Date,Gender,Age,Weight (lb.),Height (in.),CardioVue Date,CardioVue Result,Noise Level,Sys. BP,ECG,ECG Date,Holter,Holter Date,Stress ECG,Stress ECG Date,Echo,Echo Date,SPECT,SPECT Date,SPECT Results,SPECT Result,CCTA,CCTA Date,CCTA Results,Angiogram,Angiogram Date,CardioVue CAD Result,Angiogram Results,,,
+1,TCS,2016/3/8,M,76,145.2,65,,,,113,Y,2016/3/7,N,NA,N,NA,Y,2014/5/3,Y,2016/3/4,,"1. Moderate to severe irreversible perfusion defect, large extent, in the apical anterior septal walls
+2. mild to moderate reversible perfusion defect, moderate extent, in the inferior wall of LV",N,NA,NA,Y,2016/3/8,,Y,"LM-d: 40%
+RCA-d: 85% stenosis
+LAD-p 50%
+LCX-P: 30%",,
+2,KGS,2016/3/9,M,44,220,66.1,,,,155,Y,2013/9/18,N,NA,N,NA,Y,2013/9/18,Y,2015/5/1,,"Moderate myocardial ischemia in the mid to basal anterior, apical lateral walls of LV",Y,2015/6/23,Myocardial embedding of LAD-m,N,NA,,NA,NA,,
+3,JAC,2016/3/9,F,67,133.8,57.1,,,,127,Y,2015/1/7,N,NA,N,NA,Y,2015/1/22,Y,2016/3/15,,Moderate to severe myocardial ischemia in the anterior lateral and apical walls of LV,N,NA,NA,N,NA,,NA,NA,,
+4,LMS,2016/3/10,M,60,154,61.4,,,,125,Y,2016/3/9,N,NA,N,NA,Y,2015/8/11,Y,2014/4/17,,Low probability of CAD was dmonstrable,Y,2014/4/17,"1. high grade stenosis of LAD-p and D1 ostium
+2. LCX-p: R/o high grade stenosis",N,NA,,NA,NA,,
+5,WMC,2016/3/10,M,49,154,67.7,,,,147,Y,2016/1/14,N,NA,Y,2016/2/3,Y,2016/1/15,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,
+6,LGF,2016/3/10,M,51,156.2,67.3,,,,146,Y,2016/1/8,N,NA,N,NA,Y,2016/1/11,Y,2016/1/16,,"1. Mild to moderate myocardial ischemia in the mid to apical anterior, apical walls of the LV",N,NA,NA,N,NA,,NA,NA,,
+7,JWS,2016/3/16,M,64,145.2,64.2,,,,166,Y,2013/11/7,N,NA,Y,2015/2/23,Y,2015/9/12,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,
+8,JKS,2016/3/16,M,74,149.6,65,,,,122,Y,2015/12/23,N,NA,N,NA,Y,2015/12/25,Y,2016/1/25,,"Moderate to severe myocardial ischemia in the apical, mid-to-apical anterior, antero-septal walls",N,NA,NA,N,NA,,NA,NA,,
+9,SGS,2016/3/17,M,74,140.1,70.1,,,,135,Y,2016/3/16,N,NA,N,NA,N,NA,Y,2012/11/28,,Mild to moderate myocardial ischemia in the basal infero-lateral walls of LV,N,NA,NA,Y,2016/3/17,,Y,"RCA-PLV 80%
+LAD: -p 80%
+LCX: -p 30%, -m 50%, -d 100%
+Ramus 80%",,
+10,HSI,2016/3/21,F,50,140.8,59.1,,,,109,Y,2016/3/1,N,NA,N,NA,Y,2016/3/12,Y,2016/3/14,,"In view of clinical history, the scintigrphic findings suggest the possiblity of myocardial ischemia in the anterior and distal interolateral walls of LV",N,NA,NA,Y,2016/3/24,,N,LAD-p 30% stenosis,,
+11,LIC,2016/3/22,M,56,135.3,61.8,,,,141,Y,2016/3/21,N,NA,N,NA,Y,2016/3/8,Y,2016/3/9,,"1. involving about 40% of total myocardium
+2. probably myocardial ischemia in the anterior, apical & inferoposterior walls of LV",N,NA,NA,Y,2016/3/22,,Y,"RCA-d  90%
+LAD-p 40 -50%
+LCX-d 30%",,
+12,LIM,2016/3/23,M,48,198,66.9,,,,121,Y,2016/3/23,N,NA,N,NA,Y,2014/11/26,Y,2014/12/13,,Severely decreased radioativity in the proximal inferoposterior and proximal inferolateral walls of LV,N,NA,NA,Y,2016/3/24,,?,Slow flow of both LCA and RCA without in-stent restenosis,,
+13,LIH,2016/3/28,F,59,123.2,63.4,,,,120,Y,2016/3/26,N,NA,Y,2016/1/27,N,NA,N,NA,,NA,N,NA,NA,Y,2016/3/28,,Y,"RCA-p to m luminal irregularity
+LAD: -p to m 20%, -d acute tapering, -D1 80%",,
+14,LYE,2016/3/31,F,78,136,62.2,,,,149,Y,2016/3/30,N,NA,N,NA,N,NA,Y,2015/10/13,,"Severe CAD involving the apical, apical-inferior walls and moderate CAD involving the mid-to-apical to apical-anterior wall of the LV",N,NA,NA,Y,2016/3/31,,Y,"RCA: -m 40%, -d 80%, -PDA 80%
+LAD: -m 80%, -d 70 - 85%
+LCX-m 70%",,
+15,ISG,2016/3/31,F,73,114.4,59.4,,,,125,Y,2016/3/30,N,NA,N,NA,N,NA,Y,2015/11/12,,"Markedly decreased uptake of large extent in the apical, anterior, septal, and inferior walls",N,NA,NA,Y,2010/2/21,,Y,"CAD, DVD
+LAD-d total occlusion with collateral from RCA-PDA
+LCX-D0M2 90%",,* CTO -  chronic total occlusion
+16,JWJ,2016/3/31,M,49,171.6,68.1,,,,131,Y,2010/10/7,N,NA,Y,2013/1/2,Y,2016/3/31,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,* BMS - bare metal stent
+17,SGW,2016/4/1,M,74,164.8,64.6,,,,131,Y,2015/12/22,N,NA,N,NA,Y,2016/3/1,Y,2016/2/18,,Moderately decreased uptake of moderate extent in the lateral wall,N,NA,NA,Y,2016/4/5,,N,LAD-d 50% stenosis,,* DES: drug eluting stent
+18,LGG,2016/4/6,M,52,165,67.7,,,,123,Y,2015/10/10,N,NA,Y,2016/3/11,Y,2015/10/14,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,* DEB - drug eluting balloon
+19,HCG,2016/4/8,M,72,136.4,65,,,,114,Y,2016/4/7,N,NA,N,NA,Y,2015/11/10,Y,2016/3/3,,"Moderately decreased radioactivity in the middle to distal anterior, anteroseptal, apical, and infero-posterior walls of LV",N,NA,NA,Y,2016/4/8,,Y,"LAD: -p-m 50%, -m 70%, -d 80%",,
+20,JLH,2016/4/11,F,67,122.8,58.7,,,,152,Y,2015/9/7,N,NA,N,NA,Y,2015/6/8,Y,2015/11/11,,"Mildly decreased in anterior wall of LAD territory, 26% of LCX territory",N,NA,NA,Y,2016/4/15,,N,"LAD-m: 30%
+LCX-OM: 30%",,
+21,GCG,2016/4/14,M,68,182.6,65.7,,,,114,Y,2014/7/3,N,NA,N,NA,Y,2014/7/14,Y,2014/7/31,,"Mild to moderate myocardial ischemia in the apical, mid-infero-lateral walls of the LV",Y,2016/1/14,"1. Calcified and partially calcified plaques at LAD-p and D1 with mild to moderate stenosis
+2. Partially calcified plaques at RCA-p with mild stenosis",N,NA,,NA,NA,,
+22,LGS,2016/4/14,M,48,189.2,70.1,,,,127,Y,2016/3/14,N,NA,Y,2016/3/14,Y,2016/3/27,Y,2016/3/28,,"Myocardial ischemia in anterior, apical, inferior, and inferolateral walls (severe reduction of uptake) of LV",N,NA,NA,Y,2016/4/29,,Y,"RCA-P: 100%
+LAD-p-m: 100%",,
+23,SGS,2016/4/16,M,51,182.6,66.9,,,,139,Y,2016/2/20,N,NA,N,NA,Y,2014/11/11,Y,2015/11/25,,"Moderately decreased uptake of small extent in the lateral apex with fair reversibility, probably reflecting mild to moderate myocardial ischemia",N,NA,NA,N,NA,,NA,NA,,
+24,CCB,2016/4/19,M,60,149.6,66.5,,,,126,Y,2016/4/19,N,NA,Y,2016/4/12,Y,2016/4/7,N,NA,,NA,N,NA,NA,Y,2016/4/19,,N,"LAD-d: 30%
+LCX-m: 30%",,
+25,LWS,2016/4/20,M,60,193.6,68.9,,,,123,Y,2015/10/13,N,NA,N,NA,Y,2014/10/1,Y,2012/1/20,,"1. Moderate CAD involving the basal inferior, mid-to-basal, infero-lateral walls of LV
+2. Moderate myocardial ischemia in the apical, apical infero-lateral, basal infero-septal walls of the LV",N,NA,NA,N,NA,,NA,NA,,
+26,LGS,2016/4/21,M,73,154,59.8,,,,135,Y,2016/2/9,N,NA,N,NA,Y,2016/2/12,Y,2016/4/16,,"Moderate to severe myocardial ischemia in the apical, mid-to-apical, anterior walls of the LV",N,NA,NA,Y,2016/5/20,,Y,"RCA: -p 30%, -d 70%, -PDA 80%
+LAD-D1: 90%
+LCX: -m 50%, -d 90%, OM2 90%
+Ramus: 80%",,
+27,SLG,2016/4/25,M,77,136.4,65.4,,,,118,Y,2016/4/25,N,NA,N,NA,Y,2016/4/7,Y,2016/4/6,,Moderate myocardial ischemia in the apical wall (moderate extent around 11%) of the LV,N,NA,NA,Y,2016/4/25,,Y,LAD-p: 75%,,
+28,HSM,2016/5/3,F,85,130.5,60.6,,,,160,Y,2016/5/3,N,NA,N,NA,Y,2016/11/26,Y,2016/4/16,,"Moderate myocardial ischemia in the mid-to-apical anterior, infero-apical, apical-inferior walls of LV",N,NA,NA,Y,2016/5/4,,Y,"LM-pn 40 - 50%
+RCA: -p 40 - 50%, -m 40 - 50%, -PDA 50%, PLV1 50%
+LAD: -p 50%, -m 70 - 80%
+LCX: -p 20 - 30%, -m 20 - 30%, -d 50%",,
+29,JSL,2016/5/5,M,57,193.6,65.4,,,,147,N,NA,N,NA,Y,NA,Y,2016/2/17,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,
+30,HTI,2016/5/7,M,52,151.8,65.7,,,,132,Y,2015/5/5,N,NA,Y,2015/5/29,Y,2015/5/4,N,NA,NA,NA,N,NA,NA,N,NA,,NA,NA,,
+31,JSS,2016/5/10,M,66,162.8,63.8,,,,142,Y,2016/5/9,N,NA,N,NA,N,NA,Y,2016/2/17,,"Severely decreased radioactivity in apical, septal, inferior, and inferolateral walls of LV, EF 51%",N,NA,NA,Y,2016/5/10,,Y,"RCA-p 100%
+LAD-p 100%
+LCX: -m 70%, -OM 95%",,
+32,JYI,2016/5/18,F,75,140.8,59.4,,,,140,Y,2016/4/11,N,NA,N,NA,Y,2016/5/1,Y,2016/5/11,,"Mildly dcreased uptake of small extent in the basal lateral wall with good reversibility compatible with mild myocardial ischemia (3% of total myocardium, 22% of LCX territory)",N,NA,NA,Y,2016/5/26,,N,"RCA-p 30%
+LAD-m 30%",,
+33,LLT,2016/5/18,M,62,191.4,67.7,,,,128,Y,2015/12/30,N,NA,N,NA,Y,2016/1/25,Y,2015/5/4,,"Mild to moderate myocardial ischemia in the mid to basal, infero-septal, apical, apical infero-lateral walls of LV",N,NA,NA,N,NA,,NA,NA,,
+34,TGG,2016/5/31,M,59,149.6,64.6,,,,136,Y,2015/7/22,N,NA,N,NA,Y,2015/7/22,Y,2015/1/13,,Mild myocardial ischemia in the anterior and inferior wall,N,NA,NA,Y,2016/6/16,,N,"Slow flow of both LCA and RCA
+LCX-d 40%",,
+35,LDW,2016/5/31,M,42,154,68.9,,,,112,Y,2016/5/30,N,NA,Y,2015/5/13,Y,2015/6/24,N,NA,NA,NA,Y,2016/6/10,"Noncalcified plaque at OM, with high grade stenosis, noncalcified plaque at LCX-m with mild to moderate (40 - 50%) stenosis",Y,2016/6/3,,Y,"LAD-m total occlusion
+LCX-d 20 -30%",,
+36,TGM,2016/6/1,M,63,162.8,68.1,,,,149,Y,2016/5/31,N,NA,Y,2016/4/26,N,NA,Y,2016/5/24,,"Moderately decreased radioactivity in inferior wall and mildly decreased radioactivity in anteroseptal wall of LV, EF 73%",N,NA,NA,Y,2016/6/1,,Y,"LM-d 50%
+RCA-PDA 35%
+LAD: -p 70%, -d 40%, -D1 70%
+LCX: -p 35%, -OM 30%
+Ramus 99%",,
+37,TLS,2016/6/1,M,75,154,62.2,,,,119,Y,2016/4/22,N,NA,N,NA,Y,2013/3/6,Y,2016/5/24,,The possibility of myocardial ischemia in the septal and inferior walls of LV should be suspected,N,NA,NA,Y,2016/6/16,,N,"RCA: -m 50%, -PDA 50%
+LAD: -p 30%, -P1 50%",,
+38,MGH,2016/6/1,F,50,143,62.2,,,,109,Y,2016/4/6,N,NA,Y,2016/4/1,Y,2016/4/9,Y,2016/5/20,,The scintigraphic findings are more likely due to attenuation effect in the anteroseptal wall of LV although the possibility of admixture of viable and nonviable myocardium due to chronic CAD cannot be ruled out,N,NA,NA,Y,2016/6/23,,N,LAD-d 30% stenosis,,
+39,KGG,2016/6/1,M,47,151.8,64.2,,,,124,Y,2016/5/20,N,NA,Y,2016/5/24,N,NA,N,NA,NA,NA,N,NA,NA,Y,2016/6/4,,Y,"RCA-PLV 30%
+LAD-m 75%
+LCX-m 30%",,
+40,LIS,2016/6/2,M,55,191.4,65.4,,,,123,Y,2016/6/1,N,NA,N,NA,Y,2014/11/29,N,NA,,NA,Y,2014/10/9,"Noncalcified plaque at RCA-m with high grade stenosis, mixed and noncalcified plaques at LAD-p, m, d with mild to moderate stenosis at LAD-p, d and mild stenosis at LAD-m calcified plaque at RCA-p with mild to moderate stenosis",Y,2016/6/2,,Y,"RCA-m 75%
+LAD-p 40%",,
+41,IMG,2016/6/2,M,53,165,65.4,,,,128,Y,2016/6/1,N,NA,N,NA,Y,2013/10/14,Y,2016/5/4,,"Markedly decreased uptake of moderate extent in the inferolateral apical wall with good reversibility, compatible with myocardial ischemia",N,NA,NA,Y,2016/6/2,,Y,"LM-d 50%
+RCA: -m 30%, -PDA 80%, -PLV 50%
+LAD: -p 70%ISR, -d 99%",,* ISR = in-stent restenosis
+42,TJM,2016/6/2,M,47,206.8,66.5,,,,120,Y,2016/6/2,N,NA,N,NA,N,NA,Y,2016/5/3,,Markedly decreased uptake of large extent in the infero lateral wall with little reversibility,N,NA,NA,Y,2016/6/3,,N,"LAD-D 60%
+LCX: -d 40 - 50% ISR*, -m ISR*",,
+43,LGI,2016/6/3,F,44,159.5,63.8,,,,156,Y,2016/6/2,N,NA,Y,2016/5/18,Y,2016/5/6,N,NA,,NA,N,NA,NA,Y,2016/6/3,,N,"RCA-p 30%
+LAD-m 45%",,
+44,JYG,2016/6/3,F,41,198,66.1,,,,136,Y,2016/4/22,N,NA,Y,2016/3/22,Y,2016/3/22,Y,2016/4/15,,Mild myocardial ischemia in mid-to-basal anterior wall of LV,N,NA,NA,Y,2016/6/7,,N,"RCA-d 40%
+LCX-p 30%",,
+45,SLM,2016/8/22,F,44,127.6,63.4,,,,120,Y,2014/5/5,N,NA,Y,2016/6/8,Y,2016/5/7,N,NA,,NA,N,NA,NA,Y,2016/8/25,,?,Patent of coronary artery with slow flow,,
+46,LAB,2016/8/22,F,76,112.2,58.7,,,,146,Y,2016/8/1,N,NA,N,NA,Y,2016/8/16,Y,2016/8/3,,Shows markedly decreased uptake of large extent in the inferior wall,N,NA,NA,Y,2016/8/26,,Y,"RCA-m 99%
+LAD-m 80%
+LCX: -p 30%, -OM 70%, -d 20 - 30%",,
+47,GGF,2016/9/2,F,48,178.9,62.2,,,,149,Y,2016/9/1,N,NA,Y,2016/8/25,Y,2016/8/12,N,NA,,NA,Y,2016/8/24,"RCA-m with high grade stenosis as well as calcified plaque of RCA-p with mild stenosis
+LAD-p with high grade stenosis
+LCX-m with high grade stenosis",Y,2016/9/2,,Y,"RCA-m 90%
+LAD-p 90%
+LCX-m 90%",,
+48,WWW,2016/9/21,M,58,147.4,64.2,,,,129,Y,2016/7/29,N,NA,Y,1/?/2008,Y,2015/8/22,N,NA,,NA,N,NA,NA,N,NA,,NA,NA,,
+49,IHG,2016/9/24,F,60,136.6,61,,,,134,Y,2016/3/19,N,NA,Y,2016/5/4,Y,2016/3/28,N,NA,,NA,N,NA,NA,N,NA,,NA,NA,,
+50,SWD,2016/10/4,M,69,185.5,67.3,,,,133,Y,2016/10/3,N,NA,Y,2016/10/2,Y,2016/7/21,N,NA,,NA,N,NA,NA,Y,2016/10/4,,Y,"RCA: -os 40%, -m 50%, -PDA 90%
+LAD-d 80%
+LCX-p 40%",,
+51,LDM,2016/10/14,M,65,147.4,63.4,,,,146,Y,2016/10/13,N,NA,N,NA,Y,2016/8/18,Y,2016/9/14,,"Moderately decreased radioactivity in the anterior, apical, lateral, infero posterior and infero lateral walls of LV (about 60% of total myocardium)",N,NA,NA,Y,10/14/2016*,,Y,"RCA-PLV 70%
+LAD-p 100%
+LIMA-LAD-m patent",,* has another angiogram result on 10/22¡K
+52,LKG,2016/10/28,M,53,178.2,69.3,,,,120,Y,2016/10/27,N,NA,N,NA,Y,2016/10/16,N,NA,,NA,Y,2016/9/20,"Partially calcified plaque with high grade stenosis at RCA-p, noncalcified plaque at LCX-m with high grade stenosis, partially calcified plaque at LAD-p and RCA-m with mild to moderate stenosis",Y,2016/10/28,,Y,"RCA-p 70 -80%
+LCX-m 50%",,
+53,LJG,2016/11/2,M,65,169.4,62.6,,,,129,Y,2015/12/16,N,NA,Y,2016/9/14,Y,2015/12/17,N,NA,,NA,N,NA,NA,N,NA,,NA,NA,,
+54,JSC,2016/11/3,M,63,160.6,67.3,,,,129,Y,2016/1/22,N,NA,N,NA,Y,2016/10/6,Y,NA,,"Moderate to severe CAD involving the apical, mid to apical anterior, inferior, infero-lateral walls (large extent, around 66%) of LV",N,NA,NA,Y,2016/11/3,,Y,"RCA-m 80%
+LCX-m functional total occlusion",,
+55,ITF,2016/11/4,M,51,203.3,66.5,,,,111,Y,2016/11/3,N,NA,Y,2016/9/19,Y,2016/9/17,N,NA,,NA,N,NA,NA,Y,2016/11/4,,N,"RCA-m 40%
+LAD-m 55%
+LCX 30%",,
+56,TSF,2016/11/8,F,73,108.5,57.5,,,,126,Y,2016/9/5,Y,2016/6/24,N,NA,Y,1/28/?,N,NA,,NA,N,NA,NA,Y,2016/11/9,,Y,"RCA: -p 60%, -m 80%
+LAD: -p 80%, -m 70%, -d 90%
+LCX-p 100%",,
+57,HMG,2016/11/16,F,66,132,61.4,,,,123,Y,2016/10/5,Y,2016/6/24,Y,2016/6/24,Y,2015/9/22,Y,2016/10/11,,Mild myocardial ischemia in the mid-to-basal infero-lateral wall of LV,N,NA,NA,N,NA,,NA,NA,,
+58,HIG,2016/11/17,M,75,168.1,68.1,,,,89,Y,2016/11/16,N,NA,N,NA,Y,2016/11/8,Y,2016/9/22,,"In view of clinical histoyr, the scintigrphaic fiins suggest more likely due to diaphragmaitic effect in the infeoposterior wall of LV while less likely due to myocardial ischemia",N,NA,NA,Y,2016/11/17,,Y,"RCA: -p 40%, -m 50%
+LAD: -p 30%, -m 40%, -d 75%
+LCX-m 30%",,
+59,HKG,2016/11/17,M,59,162.4,63,,,,122,Y,2016/11/16,N,NA,Y,2016/10/17,Y,2016/10/11,Y,2016/10/14,,Moderate to severe myocardial ischemia in the inferior and infero-lateral walls of the LV,N,NA,NA,Y,2016/11/17,,Y,CAD TVD s/p PCI with DES x 1 in p-m LAD and DES x 2 in p-d LCX (residual RCA-p CTO. Collateral from septal branch to d-RCA),,
+60,GYC,2016/11/17,F,63,114.4,57.9,,,,132,Y,2016/11/16,N,NA,Y,2016/11/3,Y,2016/11/9,N,NA,,NA,N,NA,NA,Y,2016/11/17,,Y,"RCA: -p 70%, -m 80%
+LAD: -m 80%, -d 70%, -D1 70%
+LCX-m 80%",,
+61,GTF,2016/11/19,M,64,154,68.9,,,,142,Y,2014/4/11,N,NA,N,NA,Y,2014/12/23,Y,2016/7/12,,Moderate CAD involving the mid-to-basal inferior and mid-to-basal infero-septal walls (small extent 7%) of the LV. Admixture of scar and normal or hibernating myocardium should be considered.,N,NA,NA,Y,2014/4/11,,Y,"1. CAD with TVD - LAD, LCX, RCA
+2. LVG: LV global mild to moderate hypokinesis except lateral wall of LV. LVEDP = 12 wHg, EF 61.6%
+3. PCI was done RCA-m, LAD-d, DEB over RCA-m for instent restenosis
+4. smooth procedure was noted without hemodynamic change and s/s.",,
+62,GWM,2016/12/2,F,38,151.8,63,,,,127,Y,2016/10/26,N,NA,Y,2016/10/28,Y,2016/11/6,N,NA,,NA,N,NA,NA,N,NA,,NA,NA,,
+63,JYY,2016/12/3,F,60,125.4,59.8,,,,129,Y,2014/5/31,N,NA,N,NA,Y,2013/10/19,N,NA,,NA,N,NA,NA,N,NA,,NA,NA,,
